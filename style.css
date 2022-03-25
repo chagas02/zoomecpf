@@ -1,0 +1,12 @@
+div {
+  width: 500px;
+  height: 500px;
+  background: #eee;
+  margin: 0 auto;
+}
+
+input {
+  display: block;
+  margin: 0 auto;
+  top: 50px;
+}
